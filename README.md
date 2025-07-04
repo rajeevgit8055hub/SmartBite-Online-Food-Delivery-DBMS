@@ -95,6 +95,7 @@ These insights make decision-making faster and more reliable.
 - **Restaurant Performance:** Which restaurant needs improvement?  
 - **Growth Trends:** How are month-wise sales growing?  
 - **Payment Trends:** Which payment mode is safest with the least cancellations?  
+- **Forms:** Generate clean Forms for management anytime — even for launching new products!
 - **Reporting:** Generate clean reports for management anytime.
 
 ---
