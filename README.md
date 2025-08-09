@@ -176,11 +176,11 @@ You get complete sales insights, revenue tracking, customer loyalty management, 
 
 ---
 
-## 🖼️ Project Screenshots
+## 🖼️ Project Preview
 
 Below are two sample screenshots showing the main DBMS and reports view.
 
-## 📊 SmartBite – Online Food Delivery DBMS Preview** 
+## 📊 SmartBite – Online Food Delivery DBMS Preview
  
 ![SmartBite – Reports & Dashboard View](SmartBite-%20Online%20Food%20Delivery%20DBMS1.png)
 ![SmartBite – Main DBMS Preview](SmartBite-%20Online%20Food%20Delivery%20DBMS.png) 
