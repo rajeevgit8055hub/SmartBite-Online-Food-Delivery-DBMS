@@ -1,6 +1,7 @@
 # 🍽️ SmartBite – Online Food Delivery Database Management System
 
 📊 **A complete company-level Microsoft Access DBMS project for analyzing and managing an online food delivery business.**  
+
 SmartBite is a comprehensive, production-ready Microsoft Access Database Management System designed specifically for analyzing and managing every aspect of an online food delivery business.
 In today’s fast-paced food delivery industry, managing huge volumes of orders, multiple restaurant partners, diverse payment methods, customer loyalty programs, cancellations, and real-time revenue insights demands a robust and automated database solution. SmartBite addresses all these needs in one place. 
 
@@ -8,14 +9,34 @@ In today’s fast-paced food delivery industry, managing huge volumes of orders,
 
 ---
 
-## 📌 Project Overview
+## 📑 Table of Contents
+
+- <a href="#project-overview">📌 Project Overview</a>  
+- <a href="#project-purpose">🎯 Project Purpose</a>  
+- <a href="#key-objectives">✅ Key Objectives</a>  
+- <a href="#inside-smartbite">🧩 Inside SmartBite – Tables & Structure</a>  
+- <a href="#core-relationship">🔗 Core Relationships</a>  
+- <a href="#data-validation">🔍 Data Validation Rules</a>  
+- <a href="#business-problem">📊 Real-World Business Problems Solved</a>  
+- <a href="#smart-access">⚙️ Smart Access Features</a>  
+- <a href="#what-you-deliver">📌 What You Deliver with SmartBite</a>  
+- <a href="#key-calculation">🧮 Key Calculations</a>  
+- <a href="#question-answer">💡 Business Questions Answered</a>
+- <a href="#extra-features">🎁 Extra Realism Features</a>
+- <a href="#final-result">✅ Final Result</a>  
+- <a href="#contact">📬 Connect with Me</a> 
+- <a href="#project-snapshot">🖼️ Project Snapshot</a>
+
+---
+
+## <span id="project-overview">📌 Project Overview</span>  
 
 SmartBite is a **real-world, production-ready DBMS** designed entirely in **Microsoft Access (.accdb)**.  
 This system shows how an online food delivery business can manage massive order data, multiple restaurants, loyal customers, discounts, cancellations, and real-time revenue tracking — all inside one connected database.
 
 ---
 
-## 🎯 Project Purpose
+## <span id="project-purpose">🎯 Project Purpose</span>  
 
 The purpose of SmartBite is to fix the typical pain points food delivery businesses face when dealing with huge amounts of monthly order data.  
 Without a proper system, data remains scattered and reporting becomes manual and error-prone. SmartBite centralizes everything in one place.
@@ -28,7 +49,7 @@ Without a proper system, data remains scattered and reporting becomes manual and
 
 ---
 
-## ✅ Key Objectives
+## <span id="key-objectives">✅ Key Objectives</span>  
 
 This project helps you learn practical skills by solving real business needs step by step.  
 Below are the main goals you achieve with SmartBite.
@@ -46,7 +67,7 @@ Below are the main goals you achieve with SmartBite.
 
 ---
 
-## 🧩 Inside SmartBite – Tables & Structure
+## <span id="inside-smartbite">🧩 Inside SmartBite – Tables & Structure</span>  
 
 SmartBite is organized into well-designed master tables, monthly order tables, and a final merged dataset.  
 Here’s what’s inside:
@@ -59,7 +80,7 @@ Here’s what’s inside:
 
 ---
 
-## 🔗 Core Relationships
+## <span id="core-relationship">🔗 Core Relationships</span>  
 
 SmartBite maintains **clean, accurate data** by enforcing relationships and referential integrity rules.  
 This ensures every order is linked properly with no orphan records.
@@ -71,7 +92,7 @@ This ensures every order is linked properly with no orphan records.
 
 ---
 
-## 🔍 Data Validation Rules
+## <span id="data-validation">🔍 Data Validation Rules</span>  
 
 To ensure high data quality, SmartBite uses strong validation rules and restrictions.  
 These checks make sure the records stay logical and clean.
@@ -83,7 +104,7 @@ These checks make sure the records stay logical and clean.
 
 ---
 
-## 📊 Real-World Business Problems Solved
+## <span id="business-problem">📊 Real-World Business Problems Solved</span>  
 
 SmartBite is designed to answer real daily business questions that any food delivery company faces.  
 These insights make decision-making faster and more reliable.
@@ -100,7 +121,7 @@ These insights make decision-making faster and more reliable.
 
 ---
 
-## ⚙️ Smart Access Features
+## <span id="smart-access">⚙️ Smart Access Features</span>  
 
 This project uses many advanced Microsoft Access tools to automate reporting and maintain data quality.  
 These features turn SmartBite into a **company-level solution**, not just a simple student project.
@@ -115,7 +136,7 @@ These features turn SmartBite into a **company-level solution**, not just a simp
 
 ---
 
-## 📌 What You Deliver with SmartBite
+## <span id="what-you-deliver">📌 What You Deliver with SmartBite</span>  
 
 By building SmartBite, you deliver an actual business-ready database, not just an academic file.  
 Your `.accdb` covers every stage of food delivery data handling.
@@ -131,7 +152,7 @@ Your `.accdb` covers every stage of food delivery data handling.
 
 ---
 
-## 🧮 Key Calculations
+## <span id="key-calculation">🧮 Key Calculations</span>  
 
 This project includes the main calculations every food delivery business needs.  
 You can adjust, expand, or automate them further as you learn.
@@ -144,7 +165,7 @@ You can adjust, expand, or automate them further as you learn.
 
 ---
 
-## 💡 Business Questions Answered
+## <span id="question-answer">💡 Business Questions Answered</span>  
 
 SmartBite gives you ready answers to these essential business queries anytime you run your reports.
 
@@ -156,7 +177,7 @@ SmartBite gives you ready answers to these essential business queries anytime yo
 
 ---
 
-## 🎁 Extra Realism Features
+## <span id="extra-features">🎁 Extra Realism Features</span>  
 
 SmartBite also includes extra touches that make it more realistic and closer to how real companies work.  
 These small details build trust and usability.
@@ -169,16 +190,29 @@ These small details build trust and usability.
 
 ---
 
-## ✅ Final Result
+## <span id="final-result">✅ Final Result</span>  
 
 SmartBite proves that **Microsoft Access** is powerful enough to manage **real food delivery data** — not just simple tables.  
 You get complete sales insights, revenue tracking, customer loyalty management, cancellation trends, and automated reporting — ready to use for any company.
 
 ---
 
-## 🖼️ Project Preview
+## <span id="contact">📬 Connect with Me</span> 
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-snapshot">🖼️ Project Snapshot</span>  
  
 ![SmartBite – Reports & Dashboard View](SmartBite-%20Online%20Food%20Delivery%20DBMS1.png)
+
 ![SmartBite – Main DBMS Preview](SmartBite-%20Online%20Food%20Delivery%20DBMS.png) 
+
 ---
 
