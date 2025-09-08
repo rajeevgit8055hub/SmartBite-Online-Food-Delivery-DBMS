@@ -2,15 +2,11 @@
 
 📊 **A complete company-level Microsoft Access DBMS project for analyzing and managing an online food delivery business.**  
 
-SmartBite is a comprehensive, production-ready Microsoft Access Database Management System designed specifically for analyzing and managing every aspect of an online food delivery business.
-In today’s fast-paced food delivery industry, managing huge volumes of orders, multiple restaurant partners, diverse payment methods, customer loyalty programs, cancellations, and real-time revenue insights demands a robust and automated database solution. SmartBite addresses all these needs in one place. 
-
-📌 SmartBite is not just a practice project — it’s a complete company-level solution that demonstrates how Microsoft Access can powerfully handle real-world business requirements in the food delivery sector.
-
 ---
 
 ## 📑 Table of Contents
 
+- <a href="#introduction">📌 Introduction</a>  
 - <a href="#project-overview">📌 Project Overview</a>  
 - <a href="#project-purpose">🎯 Project Purpose</a>  
 - <a href="#key-objectives">✅ Key Objectives</a>  
@@ -26,6 +22,15 @@ In today’s fast-paced food delivery industry, managing huge volumes of orders,
 - <a href="#final-result">✅ Final Result</a>  
 - <a href="#contact">📬 Connect with Me</a> 
 - <a href="#project-snapshot">🖼️ Project Snapshot</a>
+
+---
+
+## <span id="introduction">📌 Introduction</span>  
+
+SmartBite is a comprehensive, production-ready Microsoft Access Database Management System designed specifically for analyzing and managing every aspect of an online food delivery business.
+In today’s fast-paced food delivery industry, managing huge volumes of orders, multiple restaurant partners, diverse payment methods, customer loyalty programs, cancellations, and real-time revenue insights demands a robust and automated database solution. SmartBite addresses all these needs in one place. 
+
+📌 SmartBite is not just a practice project — it’s a complete company-level solution that demonstrates how Microsoft Access can powerfully handle real-world business requirements in the food delivery sector.
 
 ---
 
